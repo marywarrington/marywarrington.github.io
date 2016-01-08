@@ -10,7 +10,7 @@ _This portfolio site has information about projects I've worked on, bio informat
 
 ## Setup/Installation Requirements
 
-* _No install required_
+* _You can find the site live on ![my GitHub](http://marywarrington.github.io/)_
 
 ## Known Bugs
 
